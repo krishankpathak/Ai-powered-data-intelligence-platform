@@ -30,3 +30,6 @@ Visualization: Streamlit / Plotly / Dash
 Database: PostgreSQL / MongoDB / Redis
 
 Deployment: Docker, Kubernetes, CI/CD with GitHub Actions
+
+here are 5 datasets given for the optimization of the project and show its proper working 
+
